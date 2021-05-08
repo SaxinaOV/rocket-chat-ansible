@@ -1,6 +1,6 @@
 ---
 # defaults/main.yml: Defaults for RocketChat.Ansible
-rocket_chat_automatic_upgrades: false
+rocket_chat_automatic_upgrades: true
 rocket_chat_upgrade_backup: true
 rocket_chat_upgrade_backup_path: "{{ rocket_chat_application_path }}"
 rocket_chat_application_path: /var/lib/rocket.chat
