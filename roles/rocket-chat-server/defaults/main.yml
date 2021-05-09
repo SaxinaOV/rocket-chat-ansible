@@ -20,8 +20,6 @@ rocket_chat_pgp_command: gpg2
 rocket_chat_service_user: rocketchat
 rocket_chat_service_group: rocketchat
 rocket_chat_service_host: "{{ ansible_fqdn }}"
-<<<<<<< HEAD
-<<<<<<< HEAD
 rocket_chat_service_port: 3000
 rocket_chat_service_environment: {}
 rocket_chat_service_extra_instances: []
