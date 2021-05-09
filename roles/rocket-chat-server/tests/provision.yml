@@ -19,7 +19,7 @@
 
   vars:
     rocket_chat_tarball_check_checksum: false
-    rocket_chat_service_port: 400  #3000
+    rocket_chat_service_port: 3000
     rocket_chat_service_host: localhost
     rocket_chat_automatic_upgrades: true
     # Below PEM file is provided so we don't have to wait for it to generate.
